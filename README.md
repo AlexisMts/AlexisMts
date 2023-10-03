@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+	<img src="https://github.com/AlexisMts/AlexisMts/blob/main/assets/duck-waddling.gif">
+</div>
+
 <!--
 **AlexisMts/AlexisMts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
