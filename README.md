@@ -36,6 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlexisMts/AlexisMts/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/alexismts/alexismts/blob/output/github-contribution-grid-snake.svg)
 
 ###
