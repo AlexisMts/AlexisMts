@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alexis and I am a cybersecurtity student at HEIG-VD in Switzerland.</p>
+<p align="left">My name is Alexis and I am a cybersecurity student at HEIG-VD in Switzerland.</p>
 
 ###
 
