@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alexis and I am a cybersecurity student at HEIG-VD in Switzerland.</p>
+<p align="left">I'm Alexis, a cybersecurity engineering student at HEIG-VD. My interests are in cryptography and low-level analysis. This GitHub is a mirror of my academic and personal journey in cybersecurity. I'm also keen on open-source projects, appreciating their role in fostering innovation and collaboration in the tech community.</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages & Tools I Use</h2>
 
 ###
 
@@ -33,13 +33,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexismts/alexismts/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexismts/alexismts/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/alexismts/alexismts/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ###
